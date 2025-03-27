@@ -2,14 +2,14 @@ html {
   height: 100%;
   width: 100%;
 }
-.phandau {
-  color: white; 
+.hi {
+  color: black; 
   background-color: green; 
   text-align: center; 
   padding: 25px;
   font-size: 25px; 
 }
-.hello{
+.dau {
   display:inline-block ;
   height: 50%
 }
